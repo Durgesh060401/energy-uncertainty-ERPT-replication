@@ -161,8 +161,6 @@ energy-uncertainty-erpt-replication/
 ├── README.md
 ├── presentation/
 ├── data/
-│   ├── raw/
-│   └── processed/
 ├── code/
 ├── results/
 │   ├── tables/
