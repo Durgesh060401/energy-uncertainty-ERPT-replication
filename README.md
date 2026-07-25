@@ -169,7 +169,8 @@ energy-uncertainty-erpt-replication/
 │   └── figures/
 ├── requirements.txt
 └── LICENSE
-
+```
+---
 ## Reference
 
 Balcilar, M., & Usman, O. (2026). Global Energy Market Uncertainty and Exchange Rate Pass-Through to Food Inflation. *Energy Research Letters, 7*(1).
@@ -181,3 +182,4 @@ DOI: 10.46557/001c.125871
 ## Disclaimer
 
 This repository contains an independent academic replication conducted for educational purposes. The original research design and intellectual contributions belong to the authors of the original study.
+
