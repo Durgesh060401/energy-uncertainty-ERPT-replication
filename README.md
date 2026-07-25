@@ -160,20 +160,21 @@ energy-uncertainty-ERPT-replication/
 │
 ├── README.md
 │
-├── presentation/
-│   └── replication_presentation.pdf
-│
-├── data/
-│   └── replication_data.csv
+├── requirements.txt
 │
 ├── code/
 │   └── panel_threshold_replication.py
 │
-├── results/
-│   ├── tables/
-│   └── figures/
+├── data/
+│   └── replication_data.csv
 │
-└── requirements.txt
+├── presentation/
+│   └── replication_presentation.pdf
+│
+└── results/
+    ├── model_results.csv
+    ├── threshold_results.csv
+    └── paper_vs_replication.csv
 ```
 ---
 ## Reference
