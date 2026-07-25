@@ -1,0 +1,6 @@
+Parameter,Estimate,Std_Error,t_statistic,p_value
+Constant,0.007367,0.001,8.595,0.000
+Low_Regime_ERPT,0.102437,0.030,3.417,0.001
+High_Regime_ERPT,-0.295196,0.069,-4.279,0.000
+Foreign_Prices,0.119431,0.052,2.279,0.023
+GDP_Output,0.116754,0.046,2.561,0.011
