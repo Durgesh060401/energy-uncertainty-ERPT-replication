@@ -159,7 +159,6 @@ Exchange-rate movements may have relatively limited effects on food inflation du
 energy-uncertainty-ERPT-replication/
 │
 ├── README.md
-│
 ├── requirements.txt
 │
 ├── code/
