@@ -1,0 +1,10 @@
+Statistic,Value
+Estimated_Threshold_Gamma,0.359405
+CI_Lower,0.052558
+CI_Upper,0.401203
+Bootstrap_F_Statistic,28.314370
+Bootstrap_P_Value,0.565
+Bootstrap_Replications,1000
+Observations,735
+R_Squared,0.054
+Adjusted_R_Squared,0.049
