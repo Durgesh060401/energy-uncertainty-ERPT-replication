@@ -98,8 +98,8 @@ in the original study.
 | Threshold (γ) | 0.3851 | 0.3594 |
 | Low-Regime ERPT | -0.0088 | +0.1024 |
 | High-Regime ERPT | -0.2021 | approximately -0.29 |
-| Foreign Prices | +0.3279 | +0.2320 |
-| GDP / Output | -0.1428 | -0.0173 |
+| Foreign Prices | +0.3279 | +0.1194 |
+| GDP / Output | -0.1428 | 0.1167 |
 
 The low-regime exchange rate coefficient remains statistically insignificant in the replication.
 
