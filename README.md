@@ -168,7 +168,6 @@ energy-uncertainty-erpt-replication/
 │   ├── tables/
 │   └── figures/
 ├── requirements.txt
-└── LICENSE
 ```
 ---
 ## Reference
