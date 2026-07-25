@@ -1,0 +1,8 @@
+Parameter,Original_Paper,Replication
+Threshold_Gamma,0.3851,0.359405
+Low_Regime_ERPT,-0.0088,0.102437
+High_Regime_ERPT,-0.2021,-0.295196
+Foreign_Prices,0.3279,0.119431
+GDP_Output,-0.1428,0.116754
+Countries,39,15
+Observations,1911,735
